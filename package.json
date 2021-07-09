@@ -1,0 +1,20 @@
+{
+  "name": "gloober",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mdaniels6758",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^1.8.2",
+    "discord-giveaways": "^4.5.1",
+    "discord.js": "^12.5.3",
+    "fs": "*",
+    "microsoft-store": "^1.2.3",
+    "moment": "^2.29.1",
+    "rss-feed-emitter": "^3.2.2"
+  }
+}
