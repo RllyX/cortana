@@ -1,0 +1,12 @@
+{
+    "token": "ODYyNzI5ODkxMzU0Mzc4Mjcw.YOcl0g.tMrmQWVv7g4KvZkURVpt0R4m2GE",
+    "prefix": "!!",
+
+    "NOTE": "TO EDIT THE ROLES IN .color SEE roles.json",
+    "staffRoleID": "663198555216937030",
+    "birthdayRole": "846459848366882836",
+    "birthdayChannel": "740013398938353715",
+
+    "news_feed": "862734673842012190",
+    "rss_links": ["https://news.xbox.com/en-us/feed"]
+}
